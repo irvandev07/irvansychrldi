@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irvansychrldi
-- 👀 I’m interested in Software Programmer
+- 👀 I’m interested in Junior Software Programmer
 - 🌱 I’m currently learning Java,Kotlin,Php framework
 - 📫 How to reach me irvan.syachrialdih@gmail.com
 
