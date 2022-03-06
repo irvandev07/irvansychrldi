@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irvansychrldi
 - 👀 I’m interested in Junior Software Programmer
-- 🌱 I’m currently learning Java,Kotlin,Php framework
+- 🌱 I’m currently learning Java,Kotlin,Laravel
 - 📫 How to reach me irvan.syachrialdih@gmail.com
 
 <!---
