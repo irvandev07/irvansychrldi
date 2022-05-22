@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @irvansychrldi
-- 👀 I’m interested in Junior Software Programmer
+- 👋 Hi, I’m Irvan Syachrialdi
+- 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning Java,Kotlin,Laravel
 - 📫 How to reach me irvan.syachrialdih@gmail.com
 
