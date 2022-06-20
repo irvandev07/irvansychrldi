@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Irvan Syachrialdi
-- 👀 I’m interested in Fullstack Developer
+- 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning Java, Kotlin, Laravel, Python
 - 📫 How to reach me irvan.syachrialdih@gmail.com
 
